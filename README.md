@@ -11,13 +11,21 @@ The goals / steps of this project are the following:
 ### Contents
 
 `Writeup.ipynb` and `Writeup.html` contain more detail about the implementation.
+
 `Writeup.ipynb` contains the pipeline functions / source
+
 `utils.py` - most of the pipeline implementation utility functions
+
 `BufferedHeatmap.py` - buffer wrapper for the heatmaps
+
 `ouput_images` - some of the output from each stage of your pipeline
+
 `project_video.mp4` - the video the pipeline was tested on
+
 `test_images` -  example images for testing pipeline on single frames
+
 `small_set` - small set of car & non-car images
+
 
 ---
 
