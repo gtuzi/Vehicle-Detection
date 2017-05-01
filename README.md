@@ -10,9 +10,9 @@ The goals / steps of this project are the following:
 
 ### Contents
 
-`Writeup.ipynb` and `Writeup.html` contain more detail about the implementation.
+`Writeup.ipynb` and `Writeup.html` contain more explanation detail about the implementation.
 
-`Writeup.ipynb` contains the pipeline functions / source
+`Writeup.ipynb` contains the pipeline functions / source code
 
 `utils.py` - most of the pipeline implementation utility functions
 
