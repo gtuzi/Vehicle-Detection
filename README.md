@@ -22,6 +22,8 @@ The goals / steps of this project are the following:
 
 `project_video.mp4` - the video the pipeline was tested on
 
+`project_video_out.mp4` - the video output of the pipeline. It contains the labeled output.
+
 `test_images` -  example images for testing pipeline on single frames
 
 `small_set` - small set of car & non-car images
