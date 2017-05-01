@@ -28,6 +28,8 @@ The goals / steps of this project are the following:
 
 `small_set` - small set of car & non-car images
 
+`svc.p` - dictionary of classifier and data standardizer / unstandardizer
+
 
 ---
 
